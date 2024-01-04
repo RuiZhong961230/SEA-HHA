@@ -4,7 +4,7 @@ Surrogate Ensemble-Assisted hyper-heuristic algorithm for Expensive Optimization
 Necessary packages: sklearn and pyDOE2
 
 @Article{Zhong:23,  
-AUTHOR = {Zhong, Rui and and Yu, Jun and Chao, Zhang and Munetomo, Masaharu},  
+AUTHOR = {Zhong, Rui and Yu, Jun and Chao, Zhang and Munetomo, Masaharu},  
 TITLE = {Surrogate Ensemble-Assisted Hyper-Heuristic Algorithm for Expensive Optimization Problems},  
 JOURNAL = {International Journal of Computational Intelligence Systems},  
 VOLUME = {16},  
